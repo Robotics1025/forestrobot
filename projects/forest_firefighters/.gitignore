@@ -1,0 +1,15 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.pdf.lnk
+*.synctex.gz
+
+# Runtime temporary data
+fire_targets.json
+
+# Backup/Friend files
+robotics.pdf
+sample.*
+forest_firefighting_report.toc
